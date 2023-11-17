@@ -31,9 +31,9 @@
   <a href="https://www.linkedin.com/in/leyane-a-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/leyanedev/leyanedev/blob/output/github-contribution-grid-snake.svg)
+  
 
-  ![snake gif](https://github.com/leyanedev/leyanedev/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  ![readme](https://github-readme-stats.vercel.app/api/pin/?leyanedev=art&repo=your leyanedev&theme=react)].(https://github.com/your username/your leyandedev).
+  
 
 ![ezgif com-gif-maker (1)](https://github.com/leyanedev/git-digital-course/assets/137809210/27ef9a16-c72f-494e-af6a-12892c6cabdf)
