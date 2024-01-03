@@ -4,7 +4,7 @@
 - 🌱 Estudando Java, banco de dados, sql entre outros.
 - 🎯🔎 Colaboro hoje no Projeto Pessoa Legal: cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD).
 - 📫 How to reach email:leyane.ti2023@gmail.com
-- 
+  
  <div>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   <a href="https://github.com/Leyanedev">
@@ -31,9 +31,6 @@
 <img aling="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img aling="center" alt="intellij idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
 
 #### Databases:
