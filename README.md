@@ -1,15 +1,15 @@
-## Olá 👋 Meu nome é Leyane Leite, estudante e apaixonada por tecnologia!
+## Olá 👋 Meu nome é Leyane Leite, estudante de tecnologia!
 
 - 👀🚀 Sobre mim - Estudante de Análise e Desenvolvimento de Sistema, professora de Língua Espanhola (Migrando para a área de TI)
-- 🌱 Estudando Java, banco de dados, sql entre outros.
+- 🌱 Estudando Java, Banco de Dados, SQL, Maven, HTML, CSS e JAVASCRIPT, entre outros.
 - 🎯🔎 Colaboro hoje no Projeto Pessoa Legal: cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD).
 - 📫 How to reach email:leyane.ti2023@gmail.com
   
  <div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   <a href="https://github.com/leyanedev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leyanedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=dracula"/>
+   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 ## Tecnologias que eu uso no meu dia dia💻 
