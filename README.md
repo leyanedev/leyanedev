@@ -1,8 +1,13 @@
-## Olá 👋 Meu nome é Leyane Leite, estudante de tecnologia!
+## Olá 👋 Meu nome é Leyane Leite,
 
-- 👀🚀 Sobre mim - Estudante de Análise e Desenvolvimento de Sistema, professora de Língua Espanhola (Migrando para a área de TI)
-- 🌱 Estudando Java, Banco de Dados, SQL, Maven, HTML, CSS e JAVASCRIPT, entre outros.
-- 🎯🔎 Colaboro hoje no Projeto Pessoa Legal: cujo principal objetivo é desenvolver e tratar de um sistema voltado para o cumprimento da Lei Geral de proteção de Dados (LGPD).
+- 👀🚀🌱🎯🔎 Sou uma voluntária engajada em projetos de Tecnologia da Informação, apaixonada por aprender e aprimorar minhas habilidades nas áreas de desenvolvimento backend e frontend. Iniciei minha trajetória acadêmica com uma formação em Letras Português/Espanhol, Pedagogia e posteriormente concluí uma Pós-Graduação em Psicopedagogia. Durante os meus 13 anos como professora, dei os primeiros passos nos estudos de pensamento computacional e desenvolvimento web através da Fundação Bradesco.
+
+Atualmente, estou focada em minha formação em Análise e Desenvolvimento de Sistemas pela Anhanguera, com previsão de conclusão para 2025. Paralelamente aos estudos, estou ativamente envolvida em um projeto dedicado à proteção de dados pessoais. Neste projeto, aplico meus conhecimentos em Java, HTML e CSS, além de utilizar o GitHub como plataforma para compartilhar e colaborar em código-fonte.
+
+Ao longo do meu percurso, busquei adquirir múltiplas certificações em tecnologia, incluindo Scrum Foundation, Inovações em Tecnologia Educacional e Tech, para ampliar minha base de conhecimento e competências.
+
+Meu objetivo é consolidar minha carreira na área de tecnologia, unindo minha paixão pelo aprendizado contínuo e minha experiência em educação. Busco contribuir para a inovação e para o avanço da educação através da aplicação prática dos meus conhecimentos em tecnologia.
+
 - 📫 How to reach email:leyane.ti2023@gmail.com
   
  <div>
