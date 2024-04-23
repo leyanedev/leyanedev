@@ -1,3 +1,5 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
 ## Olá 👋 Meu nome é Leyane Leite,
 
 👀Sou uma voluntária engajada em projetos de Tecnologia da Informação, apaixonada por aprender e aprimorar minhas habilidades nas áreas de desenvolvimento backend e frontend. Iniciei minha trajetória acadêmica com uma formação em Letras Português/Espanhol, Pedagogia e posteriormente concluí uma Pós-Graduação em Psicopedagogia. Durante os meus 13 anos como professora, dei os primeiros passos nos estudos de pensamento computacional e desenvolvimento web através da Fundação Bradesco.
@@ -14,10 +16,10 @@
   <a href="https://github.com/leyanedev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leyanedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leyanedev&layout=compact&langs_count=16&theme=dracula"/>
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-## Tecnologias que eu uso no meu dia dia💻 
+
+## Tecnologias que eu uso no meu dia dia
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
