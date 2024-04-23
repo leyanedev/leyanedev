@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/leyanedev">
-    <img align="center" src="Welcome.png" width="500">
-  </a>
-</div>
-
 ## Olá 👋 Meu nome é Leyane Leite,
 
 👀Sou uma voluntária engajada em projetos de Tecnologia da Informação, apaixonada por aprender e aprimorar minhas habilidades nas áreas de desenvolvimento backend e frontend. Iniciei minha trajetória acadêmica com uma formação em Letras Português/Espanhol, Pedagogia e posteriormente concluí uma Pós-Graduação em Psicopedagogia. Durante os meus 13 anos como professora, dei os primeiros passos nos estudos de pensamento computacional e desenvolvimento web através da Fundação Bradesco.
