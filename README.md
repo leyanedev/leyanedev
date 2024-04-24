@@ -1,6 +1,6 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 <h1>
-    <a href="https://leyanedev.github.io/">
+    <a href="https://leyanedev.github.io/blog/">
  <img width="80px" align="center" src="https://github.com/leyanedev/santander-bootcamp-2024/assets/137809210/d117ab00-1f16-42b4-8d10-7c808351dc3f">
     <span>Leyane Leite</span>
 </h1>
@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/leyane-a-leite/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://instagram.com/leyaneleite/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/leyane-a-leite-/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/leyaneleite/)
 
 
 
