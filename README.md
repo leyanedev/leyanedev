@@ -5,13 +5,13 @@
     <span>Leyane Leite</span>
 </h1>
 
-👀Sou uma voluntária engajada em projetos de Tecnologia da Informação, apaixonada por aprender e aprimorar minhas habilidades nas áreas de desenvolvimento backend e frontend. Iniciei minha trajetória acadêmica com uma formação em Letras Português/Espanhol, Pedagogia e posteriormente concluí uma Pós-Graduação em Psicopedagogia. Durante os meus 13 anos como professora, dei os primeiros passos nos estudos de pensamento computacional e desenvolvimento web através da Fundação Bradesco.
+👀 Sou uma profissional multidisciplinar com paixão por tecnologia, educação e inovação. Atuo como Analista de Sistemas Júnior, com foco em desenvolvimento backend utilizando Java 17, Spring Boot e APIs RESTful. Tenho experiência em deploy de aplicações e versionamento com Git.
 
-🔎Atualmente, estou focada em minha formação em Análise e Desenvolvimento de Sistemas pela Anhanguera, com previsão de conclusão para 2025. Paralelamente aos estudos, estou ativamente envolvida em um projeto dedicado à proteção de dados pessoais. Neste projeto, aplico meus conhecimentos em Java, HTML e CSS, além de utilizar o GitHub como plataforma para compartilhar e colaborar em código-fonte.
+🔎 Além da área tech, sou professora de Espanhol e Psicopedagoga, com vivência em Educação Tecnológica (REDs) e Cultura Maker. Acredito no poder transformador da tecnologia quando unida à educação e ao propósito.
 
-🎯Ao longo do meu percurso, busquei adquirir múltiplas certificações em tecnologia, incluindo Scrum Foundation, Inovações em Tecnologia Educacional e Tech, para ampliar minha base de conhecimento e competências.
+🎯 Estou em constante evolução, buscando unir conhecimento técnico com criatividade, empatia e uma abordagem colaborativa. Atualmente, busco oportunidades para aplicar e expandir minhas habilidades no desenvolvimento backend e análise de sistemas.
 
-🌱 Meu objetivo é consolidar minha carreira na área de tecnologia, unindo minha paixão pelo aprendizado contínuo e minha experiência em educação. Busco contribuir para a inovação e para o avanço da educação através da aplicação prática dos meus conhecimentos em tecnologia.
+🌱 Tecnologias: Java | Spring Boot | Spring Data JPA | Git | MySQL | Github | Html | Css | Power BI |SQL | Banco de Dados
 
 📫 How to reach email:leyane.ti2023@gmail.com
   
